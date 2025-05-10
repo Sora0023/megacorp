@@ -1,4 +1,8 @@
 partner list
+<<<<<<< HEAD
 Boot.dev
+=======
+
+>>>>>>> 69136bb (F: deleted jayson and partners 2line empty no Boot.dev)
 TheStartup
 
